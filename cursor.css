@@ -98,7 +98,7 @@ header{
     width: 100%;
     height: 700px;
     margin-top: 80px;
-    background-image: url("/Cursor clone/images/bg-image/hero1.webp");
+    background-image: url("/images/bg-image/hero1.webp");
     /* background-size: cover; */
     background-position: center;
     bacground:contain;
@@ -185,7 +185,7 @@ padding-bottom: calc(1rem * 1.4 * 1.5);
     width: 1100px;
     height: 650px;
     /* margin-top: 80px; */
-    background-image: url("/Cursor clone/images/bg-image/hero1.webp");
+    background-image: url("/images/bg-image/hero1.webp");
     background-size: cover;
     background-position: center;
     /* bacground:contain; */
@@ -196,7 +196,7 @@ padding-bottom: calc(1rem * 1.4 * 1.5);
     width: 1100px;
     height: 650px;
     /* margin-top: 80px; */
-    background-image: url("/Cursor clone/images/bg-image/hero2.webp");
+    background-image: url("/images/bg-image/hero2.webp");
     background-size: cover;
     background-position: center;
     /* bacground:contain; */
@@ -206,7 +206,7 @@ padding-bottom: calc(1rem * 1.4 * 1.5);
     width: 1100px;
     height: 650px;
     /* margin-top: 80px; */
-    background-image: url("/Cursor clone/images/bg-image/hero3.webp");
+    background-image: url("/images/bg-image/hero3.webp");
     background-size: cover;
     background-position: center;
     /* bacground:contain; */
@@ -697,5 +697,6 @@ padding-bottom: calc(1rem * 1.4 * 1.5);
   border-radius: 8px;
   background-color: #1D1B15;
 }
+
 
 /* ------------------------------------------------- footer section ends --------------------------------- */
