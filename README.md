@@ -52,7 +52,7 @@ The project is hosted using GitHub Pages and can be viewed in the browser:
 
 Live Link:  
 
-
+https://harshu-rajput.github.io/cursor-clone/
 ---
 
 ### Source Code (GitHub)
@@ -73,4 +73,4 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/harshu-rajput/cursor-clone.git
+[git clone https://github.com/harshu-rajput/cursor-clone.git](https://github.com/harshu-rajput/cursor-clone.git)
